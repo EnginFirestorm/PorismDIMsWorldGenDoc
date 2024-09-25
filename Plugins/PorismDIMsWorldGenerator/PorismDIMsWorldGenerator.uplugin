@@ -1,0 +1,53 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"FriendlyName": "PorismDIMsWorldGenerator Free-Version",
+	"VersionName": "0.6.7",
+	"Description": "A Voxel World Generator",
+	"Category": "World Generator",
+	"CreatedBy": "EnginFirestorm",
+	"CreatedByURL": "",
+	"DocsURL": "https://github.com/EnginFirestorm/PorismDIMsWorldGenDoc/wiki/Free‐Version",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/cf56ec67a5ca47a69b9d74c8c96f7c30",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "PorismDIMsWorldGenerator",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android",
+				"Linux",
+				"LinuxArm64"
+			],
+			"PlatformAllowList": [
+				"Win64",
+				"Android",
+				"Linux",
+				"LinuxArm64"
+			]
+		},
+		{
+			"Name": "ThirdParty",
+			"Type": "Editor",
+			"LoadingPhase": "PreDefault",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android",
+				"Linux",
+				"LinuxArm64"
+			],
+			"PlatformAllowList": [
+				"Win64",
+				"Android",
+				"Linux",
+				"LinuxArm64"
+			]
+		}
+	]
+}

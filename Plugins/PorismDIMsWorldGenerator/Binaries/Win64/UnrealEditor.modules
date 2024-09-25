@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"PorismDIMsWorldGenerator": "UnrealEditor-PorismDIMsWorldGenerator.dll",
+		"ThirdParty": "UnrealEditor-ThirdParty.dll"
+	}
+}

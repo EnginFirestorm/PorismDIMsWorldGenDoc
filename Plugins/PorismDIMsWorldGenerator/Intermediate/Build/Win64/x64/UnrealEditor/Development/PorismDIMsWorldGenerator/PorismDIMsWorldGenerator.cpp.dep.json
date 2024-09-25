@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\git\\porismdimsworldgendoc\\plugins\\porismdimsworldgenerator\\source\\porismdimsworldgenerator\\private\\porismdimsworldgenerator.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\porismdimsworldgendoc\\intermediate\\build\\win64\\x64\\porismdimsworldgeneditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\git\\porismdimsworldgendoc\\plugins\\porismdimsworldgenerator\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\porismdimsworldgenerator\\definitions.porismdimsworldgenerator.h",
+            "d:\\git\\porismdimsworldgendoc\\plugins\\porismdimsworldgenerator\\source\\porismdimsworldgenerator\\public\\porismdimsworldgenerator.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

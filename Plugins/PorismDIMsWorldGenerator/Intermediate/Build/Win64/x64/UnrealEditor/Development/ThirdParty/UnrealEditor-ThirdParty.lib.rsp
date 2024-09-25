@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ThirdParty.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GIT\PorismDIMsWorldGenDoc\Intermediate\Build\Win64\x64\PorismDIMsWorldGenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:\GIT\PorismDIMsWorldGenDoc\Plugins\PorismDIMsWorldGenerator\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdParty\ThirdParty.cpp.obj"
+"D:\GIT\PorismDIMsWorldGenDoc\Plugins\PorismDIMsWorldGenerator\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdParty\Default.rc2.res"
+/OUT:"D:\GIT\PorismDIMsWorldGenDoc\Plugins\PorismDIMsWorldGenerator\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdParty\UnrealEditor-ThirdParty.lib"

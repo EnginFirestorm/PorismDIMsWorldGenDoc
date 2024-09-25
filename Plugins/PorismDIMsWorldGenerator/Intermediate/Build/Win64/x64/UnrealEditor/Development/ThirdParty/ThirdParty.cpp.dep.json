@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\git\\porismdimsworldgendoc\\plugins\\porismdimsworldgenerator\\source\\thirdparty\\private\\thirdparty.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\porismdimsworldgendoc\\intermediate\\build\\win64\\x64\\porismdimsworldgeneditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\git\\porismdimsworldgendoc\\plugins\\porismdimsworldgenerator\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thirdparty\\definitions.thirdparty.h",
+            "d:\\git\\porismdimsworldgendoc\\plugins\\porismdimsworldgenerator\\source\\thirdparty\\public\\thirdparty.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\plugindisalloweddescriptor.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "d:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\projects\\public\\versescope.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
